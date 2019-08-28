@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Gemma E. Moran</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gemoran.github.io/authors/</link>
+      <atom:link href="https://gemoran.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://gemoran.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://gemoran.github.io/authors/</link>
     </image>
     
     <item>
       <title>Edward I. George</title>
-      <link>/authors/edward-i.-george/</link>
+      <link>https://gemoran.github.io/authors/edward-i.-george/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/edward-i.-george/</guid>
+      <guid>https://gemoran.github.io/authors/edward-i.-george/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gemma E. Moran</title>
-      <link>/authors/gemma-e.-moran/</link>
+      <link>https://gemoran.github.io/authors/gemma-e.-moran/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/gemma-e.-moran/</guid>
+      <guid>https://gemoran.github.io/authors/gemma-e.-moran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Veronika Rockova</title>
-      <link>/authors/veronika-rockova/</link>
+      <link>https://gemoran.github.io/authors/veronika-rockova/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/veronika-rockova/</guid>
+      <guid>https://gemoran.github.io/authors/veronika-rockova/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Joseph Antonelli</title>
-      <link>/authors/joseph-antonelli/</link>
+      <link>https://gemoran.github.io/authors/joseph-antonelli/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/joseph-antonelli/</guid>
+      <guid>https://gemoran.github.io/authors/joseph-antonelli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mary R. Boland</title>
-      <link>/authors/mary-r.-boland/</link>
+      <link>https://gemoran.github.io/authors/mary-r.-boland/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/mary-r.-boland/</guid>
+      <guid>https://gemoran.github.io/authors/mary-r.-boland/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ray Bai</title>
-      <link>/authors/ray-bai/</link>
+      <link>https://gemoran.github.io/authors/ray-bai/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ray-bai/</guid>
+      <guid>https://gemoran.github.io/authors/ray-bai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yong Chen</title>
-      <link>/authors/yong-chen/</link>
+      <link>https://gemoran.github.io/authors/yong-chen/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/yong-chen/</guid>
+      <guid>https://gemoran.github.io/authors/yong-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://gemoran.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://gemoran.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am a postdoctoral researcher at Columbia University, working with David Blei.&lt;/p&gt;
 
 &lt;p&gt;I received my PhD in Statistics from the University of Pennsylvania, advised by Edward George and Veronika Rockova.&lt;/p&gt;

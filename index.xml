@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gemma E. Moran</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gemoran.github.io/</link>
+      <atom:link href="https://gemoran.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Gemma E. Moran</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://gemoran.github.io/img/icon-192.png</url>
       <title>Gemma E. Moran</title>
-      <link>/</link>
+      <link>https://gemoran.github.io/</link>
     </image>
     
     <item>
       <title>Spike-and-Slab Lasso Biclustering</title>
-      <link>/publication/sslb/</link>
+      <link>https://gemoran.github.io/publication/sslb/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/sslb/</guid>
+      <guid>https://gemoran.github.io/publication/sslb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spike-and-Slab Group Lassos for Grouped Regression and Sparse Generalized Additive Models</title>
-      <link>/publication/ssgl/</link>
+      <link>https://gemoran.github.io/publication/ssgl/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ssgl/</guid>
+      <guid>https://gemoran.github.io/publication/ssgl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance prior forms for high-dimensional Bayesian variable selection</title>
-      <link>/publication/variance/</link>
+      <link>https://gemoran.github.io/publication/variance/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/variance/</guid>
+      <guid>https://gemoran.github.io/publication/variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinantal Regularization for Ensemble Variable Selection</title>
-      <link>/publication/drevs/</link>
+      <link>https://gemoran.github.io/publication/drevs/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/drevs/</guid>
+      <guid>https://gemoran.github.io/publication/drevs/</guid>
       <description></description>
     </item>
     
