@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Veronika Rockova | Gemma E. Moran</title>
-    <link>https://gemoran.github.io/authors/veronika-rockova/</link>
-      <atom:link href="https://gemoran.github.io/authors/veronika-rockova/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/veronika-rockova/</link>
+      <atom:link href="/authors/veronika-rockova/index.xml" rel="self" type="application/rss+xml" />
     <description>Veronika Rockova</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gemoran.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Veronika Rockova</title>
-      <link>https://gemoran.github.io/authors/veronika-rockova/</link>
+      <link>/authors/veronika-rockova/</link>
     </image>
     
     <item>
       <title>Spike-and-Slab Lasso Biclustering</title>
-      <link>https://gemoran.github.io/publication/sslb/</link>
+      <link>/publication/sslb/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://gemoran.github.io/publication/sslb/</guid>
+      <guid>/publication/sslb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance prior forms for high-dimensional Bayesian variable selection</title>
-      <link>https://gemoran.github.io/publication/variance/</link>
+      <link>/publication/variance/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://gemoran.github.io/publication/variance/</guid>
+      <guid>/publication/variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinantal Regularization for Ensemble Variable Selection</title>
-      <link>https://gemoran.github.io/publication/drevs/</link>
+      <link>/publication/drevs/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://gemoran.github.io/publication/drevs/</guid>
+      <guid>/publication/drevs/</guid>
       <description></description>
     </item>
     

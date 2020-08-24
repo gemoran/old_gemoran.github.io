@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gemma E. Moran</title>
-    <link>https://gemoran.github.io/authors/gemma-e.-moran/</link>
-      <atom:link href="https://gemoran.github.io/authors/gemma-e.-moran/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gemma E. Moran</description>
+    <title>**Gemma E. Moran** | Gemma E. Moran</title>
+    <link>/authors/gemma-e.-moran/</link>
+      <atom:link href="/authors/gemma-e.-moran/index.xml" rel="self" type="application/rss+xml" />
+    <description>**Gemma E. Moran**</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://gemoran.github.io/img/icon-192.png</url>
-      <title>Gemma E. Moran</title>
-      <link>https://gemoran.github.io/authors/gemma-e.-moran/</link>
+      <url>/img/icon-192.png</url>
+      <title>**Gemma E. Moran**</title>
+      <link>/authors/gemma-e.-moran/</link>
     </image>
     
     <item>
       <title>Spike-and-Slab Lasso Biclustering</title>
-      <link>https://gemoran.github.io/publication/sslb/</link>
+      <link>/publication/sslb/</link>
       <pubDate>Sun, 25 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://gemoran.github.io/publication/sslb/</guid>
+      <guid>/publication/sslb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spike-and-Slab Group Lassos for Grouped Regression and Sparse Generalized Additive Models</title>
-      <link>https://gemoran.github.io/publication/ssgl/</link>
+      <link>/publication/ssgl/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://gemoran.github.io/publication/ssgl/</guid>
+      <guid>/publication/ssgl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Variance prior forms for high-dimensional Bayesian variable selection</title>
-      <link>https://gemoran.github.io/publication/variance/</link>
+      <link>/publication/variance/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://gemoran.github.io/publication/variance/</guid>
+      <guid>/publication/variance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Determinantal Regularization for Ensemble Variable Selection</title>
-      <link>https://gemoran.github.io/publication/drevs/</link>
+      <link>/publication/drevs/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://gemoran.github.io/publication/drevs/</guid>
+      <guid>/publication/drevs/</guid>
       <description></description>
     </item>
     
